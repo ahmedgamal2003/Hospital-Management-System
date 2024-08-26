@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1724708234 source:d:\m.z\intro_and_c\hospital_management_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hospital.h"
+
+1724707266 d:\m.z\intro_and_c\hospital_management_system\hospital.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724708211 source:d:\m.z\intro_and_c\hospital_management_system\hospital.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hospital.h"
+
